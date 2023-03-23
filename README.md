@@ -24,6 +24,9 @@ Documentation: https://mmsegmentation.readthedocs.io/ -->
 
 This is the official implementation of the paper "[Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning](https://arxiv.org/abs/2210.01035)" on [Segmenter](https://arxiv.org/abs/2105.05633). The codebase is [mmsegmentation](https://github.com/open-mmlab/mmsegmentation). 
 
+![framework](assets/Hourglass_vit_framework.png)
+![framework](assets/TokenClusterReconstruct_Details.png)
+
 We will also implement several token-reduction methods on Segmenter.
 
 + [EViT](https://github.com/youweiliang/evit)
